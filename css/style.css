@@ -74,15 +74,17 @@ h3 {
 #baseball{
 	width: 300px; 
 	height: 400px;   
-	position: absolute;  
+	position: relative;
+	border: 10px solid white;	
 	left:800px;
 	top: 200px;
 }
 
 #family{
-	width: 700px; 
+	width: 500px; 
 	height: 400px;  
-	position: relative;  
+	position: relative;
+	border: 10px solid white;
 	left:600px;
 	top: 200px;
 }
