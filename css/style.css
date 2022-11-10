@@ -72,24 +72,24 @@ h3 {
 
 	
 #baseball{
-	width: 300px; 
-	height: 400px;   
+	width: 30px; 
+	height: 40px;   
 	position: relative;
 	border: 10px solid white;	
-	left:100px;
-	top: 200px;
+	left:10px;
+	top: 20px;
 	width: 30%;
 	height: auto;
 	margin-right: 40%;
 }
 
 #family{
-	width: 500px; 
-	height: 400px;  
+	width: 50px; 
+	height: 40px;  
 	position: relative;
 	border: 10px solid white;
-	left:600px;
-	top: 200px;
+	left:60px;
+	top: 20px;
 	width: 25%;
 	height: auto;
 	margin-right: 70%;
